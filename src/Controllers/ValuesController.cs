@@ -13,7 +13,7 @@ namespace CoreCodeCamp.Controllers
 
     public string[] Get()
     {
-      return new[] { "Hello", "From","Pluralsight" };
+      return new[] { "Hello", "From","Pluralsight" , "And me" };
     }
   }
 }
